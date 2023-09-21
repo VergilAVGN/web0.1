@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(29, 27, 27);/* фоновый цвет  */
+    font-size: 30px; /* размер текста */
+}
+
+
+header h1{ 
+   margin-left: 30px;
+   margin-top: 30px ;
+   background-color: rgb(128, 6, 6);
+   text-align: center;
+   background: url('https://b.thumbs.redditmedia.com/o8PRkUuzUIpwp6blaHcoL4v2oW7eh6c-3ae7hJuTiYI.png') no-repeat top center;
+   width: 1440px;
+   height: 384;
+}
+
+main img{
+    width: 500px; /* ширина объекта  */
+    height: 500px;  /* ширина объекта  */
+    margin-left: 500px;  /* ширина объекта  */
+
+}
+
+header a{
+    font-size: 20px; /* размер текста */
+    width: 150px;
+    border: 3px solid blue;
+    margin-left: 250px;
+    background-color: wheat;
+    border-radius: 20px;
+    padding: 3px;
+}
+.text1{
+    border: 1px;
+    width: 300px;
+    background-color: #721410;
+    margin-left: 1140px;
+    color: #fff;
+    text-align: center;
+
+}
+.p1{
+    border: 1px  #721410;
+    background: black;
+    width: 300px;
+    margin-left: 1140px;
+    text-align: center;
+    color: #fff ;
+}
+.pic{
+    float: right;
+    
+    
+}
+.pi-secondary-background {
+    background: #721410;
+    color: #fff;
+}
+.text{
+    margin-right: 110px;
+    color: #fff;
+    width: 1000px;
+}
+.portable-infobox {
+    margin: 0 0 18px 18px;
+    
+}
+p{
+    color: #fff;
+}
